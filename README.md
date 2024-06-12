@@ -6,6 +6,13 @@ I've worked at [Cleo AI](https://web.meetcleo.com/), [FT](https://www.ft.com/), 
 
 I'm currently looking to collaborate on creative projects with likeminded folks.
 
+## Selected clients
+
+- [Attitude Magazine](https://www.attitude.co.uk/)
+- [Barbara Touati-Evans](https://www.barbara-touati-evans.com/)
+- [Camp Trans](https://www.camptrans.uk/)
+- [Dalston Superstore](https://dalstonsuperstore.com/)
+
 ## Contact me
 
 - Email: val@unidentified.systems
