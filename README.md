@@ -16,6 +16,7 @@ I'm currently looking to collaborate on creative projects with likeminded folks.
 ## Contact me
 
 - Email: val@unidentified.systems
+- Instagram: [@unidentified.systems](https://www.instagram.com/unidentified.systems)
 - Bluesky: [@unidentified.systems](https://bsky.app/profile/unidentified.systems)
 - Links: www.unidentified.systems
 
