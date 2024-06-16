@@ -6,9 +6,11 @@ I've worked at [Cleo AI](https://web.meetcleo.com/), [FT](https://www.ft.com/), 
 
 I'm currently looking to collaborate on creative projects with likeminded folks.
 
+## Let's Talk Business
+
 Wanna commission me? Bored on a Tuesday? Say hi: val@unidentified.systems
 
-## Selected clients
+### Selected clients
 
 - [Attitude Magazine](https://www.attitude.co.uk/)
 - [Barbara Touati-Evans](https://www.barbara-touati-evans.com/)
