@@ -16,6 +16,8 @@ Wanna commission me? Bored on a Tuesday? Say hi: val@unidentified.systems
 - [Barbara Touati-Evans](https://www.barbara-touati-evans.com/)
 - [Camp Trans](https://www.camptrans.uk/)
 - [Dalston Superstore](https://dalstonsuperstore.com/)
+- [London LGBTQ+ Community Centre](https://londonlgbtqcentre.org/)
+- [Queer Youth Art Collective](https://qyac.org.uk/)
 
 ## Contact me
 
