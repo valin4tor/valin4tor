@@ -13,7 +13,7 @@ I've previously worked as a software engineer at the likes of [Cleo AI](https://
 ## Selected clients
 
 - [Attitude Magazine](https://www.attitude.co.uk/)
-- [Barbara Touati-Evans](https://www.barbara-touati-evans.com/)
+- [Bishopsgate Institute](https://www.bishopsgate.org.uk/)
 - [Camp Trans](https://www.camptrans.uk/)
 - [Dalston Superstore](https://dalstonsuperstore.com/)
 - [London LGBTQ+ Community Centre](https://londonlgbtqcentre.org/)
