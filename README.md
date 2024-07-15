@@ -1,16 +1,16 @@
 ## Welcome 👋🏻
 
-Hi there! My name's Valerie (they/them), but please feel free to call me Val 😊
+Hi there! I'm a queer photographer and visual storyteller based in the south of England.
 
-I've worked at [Cleo AI](https://web.meetcleo.com/), [FT](https://www.ft.com/), [Gatsby](https://www.gatsbyjs.com/) and [Happiful](https://happiful.com/); now I [take photos](https://instagram.com/unidentified.systems) for a living.
+I've previously worked as a software engineer at the likes of [Cleo AI](https://web.meetcleo.com/), [FT](https://www.ft.com/), [Gatsby](https://www.gatsbyjs.com/) and [Happiful](https://happiful.com/).
 
-I'm currently looking to collaborate on creative projects with likeminded folks.
+## Links & contact
 
-## Let's Talk Business
+- Portfolio: [www.valerie.photos](https://www.valerie.photos/)
+- Email: val@valerie.photos
+- Instagram: [@unidentified.systems](https://www.instagram.com/unidentified.systems)
 
-Wanna commission me? Bored on a Tuesday? Say hi: val@unidentified.systems
-
-### Selected clients
+## Selected clients
 
 - [Attitude Magazine](https://www.attitude.co.uk/)
 - [Barbara Touati-Evans](https://www.barbara-touati-evans.com/)
@@ -19,13 +19,6 @@ Wanna commission me? Bored on a Tuesday? Say hi: val@unidentified.systems
 - [London LGBTQ+ Community Centre](https://londonlgbtqcentre.org/)
 - [Not A Phase](https://notaphase.org/)
 - [Queer Youth Art Collective](https://qyac.org.uk/)
-
-## Contact me
-
-- Email: val@unidentified.systems
-- Instagram: [@unidentified.systems](https://www.instagram.com/unidentified.systems)
-- Bluesky: [@unidentified.systems](https://bsky.app/profile/unidentified.systems)
-- Links: www.unidentified.systems
 
 <!--
 **valin4tor/valin4tor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
