@@ -8,7 +8,7 @@ I've previously worked as a software engineer at the likes of [Cleo AI](https://
 
 - Portfolio: [www.valerie.photos](https://www.valerie.photos/)
 - Email: val@valerie.photos
-- Instagram: [@unidentified.systems](https://www.instagram.com/unidentified.systems)
+- Instagram: [@vtenfys](https://www.instagram.com/vtenfys)
 
 ## Selected clients
 
